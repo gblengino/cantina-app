@@ -1,3 +1,5 @@
+🌎 **Read this in:** [English](README.md) | [Español](README.es.md)
+
 # Cantina Management System
 
 Backend for a desktop-based cantina management application.
@@ -108,3 +110,4 @@ The frontend is considered a work in progress and its structure may change as th
 ## 📄 License
 
 This project is for educational and personal use.
+
